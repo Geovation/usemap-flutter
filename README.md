@@ -1,6 +1,6 @@
-# MapUp Flutter
+# UseMap Flutter
 
-A Flutter project for the MapUp application. Provides a UI for Android and iOS devices.
+A Flutter project for the UseMap application. Provides a UI for Android and iOS devices.
 
 ## Resources
 
